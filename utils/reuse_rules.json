@@ -1,0 +1,19 @@
+{
+  "burger": ["make burger crumbs", "stuffing for wraps"],
+  "butter_naan": ["naan pizza", "naan rolls"],
+  "chapati": ["chapati upma", "chapati chips", "frankie rolls"],
+  "chole_bhature": ["chole toast", "chole quesadilla"],
+  "dal_makhani": ["dal khichdi", "dal paratha filling"],
+  "dhokla": ["dhokla fry", "dhokla chaat"],
+  "fried_rice": ["rice cutlets", "rice patties"],
+  "idli": ["idli upma", "idli fry", "idli manchurian"],
+  "kaathi_rolls": ["filling reuse in sandwiches"],
+  "kadai_paneer": ["paneer sandwich stuffing"],
+  "masala_dosa": ["dosa chips", "dosa rolls"],
+  "momos": ["momo fry", "momos gravy"],
+  "paani_puri": ["puri chaat"],
+  "pakode": ["pakode chat", "pakoda curry"],
+  "pav_bhaji": ["bhaji sandwich", "bhaji toast"],
+  "pizza": ["pizza fries", "pizza sandwich"],
+  "samosa": ["samosa chaat", "samosa pav"]
+}
