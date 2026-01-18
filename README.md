@@ -45,9 +45,6 @@ User Upload → Preprocessing → CNN Classifier (MobileNetV2)
 → Calories / CO₂ / Water Estimation
 → Reuse Suggestions → UI Display
 
-yaml
-Copy code
-
 ---
 
 ## 📚 Dataset
@@ -85,9 +82,6 @@ mobilenet_food_classifier/
 ├── assets/
 └── fingerprint.pb
 
-yaml
-Copy code
-
 **Class labels stored in:** `label_map.json`
 
 ---
@@ -108,9 +102,6 @@ burger → 5.3 kg CO₂/kg, 2350 L/kg
 chai → 0.8 kg CO₂/kg, 800 L/kg
 pizza → 3.5 kg CO₂/kg, 1500 L/kg
 
-yaml
-Copy code
-
 ---
 
 ## ♻ Reuse Suggestions (Rule-based)
@@ -120,9 +111,6 @@ Example mapping:
 samosa → samosa chaat, crushed samosa wrap
 chapati → chapati rolls, chapati upma, chapati chips
 rice → fried rice, kheer, rice cutlets
-
-yaml
-Copy code
 
 Stored in: `utils/reuse_rules.json`
 
@@ -155,19 +143,10 @@ Food_Waste_Tracker/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy code
-
 ---
 
-## 💻 Run Locally (Optional)
-
-```bash
-git clone https://github.com/<your-username>/Food_Waste_Tracker
-cd Food_Waste_Tracker
-pip install -r requirements.txt
-streamlit run app.py
 🌱 Use Cases
+
 ✔ Sustainability Education
 ✔ College Projects & Workshops
 ✔ Environmental Awareness Campaigns
@@ -175,6 +154,7 @@ streamlit run app.py
 ✔ Smart Waste Management Systems
 
 🧩 Future Enhancements
+
 🔜 Possible improvements:
 
 Serving size estimation
@@ -191,20 +171,29 @@ User history analytics
 
 Carbon pricing calculation
 
+📸 Screenshots (to be added)
+[ ] Upload screen
+[ ] Prediction results
+[ ] Impact visualization
+
 🏆 Acknowledgements
+
 Dataset by: Pushkar Jain
 Frameworks: TensorFlow, Streamlit
 Deployment: HuggingFace Spaces
 
 📄 License
+
 This project is for educational and research purposes.
 
 👤 Author
+
 Name: Samiksha Chougule Patil
 Role: Developer & ML Engineer
 Project Type: Internship + College Submission
 
-yaml
-Copy code
+
+---
+
 
 ---
