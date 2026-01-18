@@ -171,11 +171,6 @@ User history analytics
 
 Carbon pricing calculation
 
-📸 Screenshots (to be added)
-[ ] Upload screen
-[ ] Prediction results
-[ ] Impact visualization
-
 🏆 Acknowledgements
 
 Dataset by: Pushkar Jain
