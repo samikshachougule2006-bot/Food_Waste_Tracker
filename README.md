@@ -179,7 +179,8 @@ Deployment: HuggingFace Spaces
 
 📄 License
 
-This project is for educational and research purposes.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+This means you may use, modify, and share the project for non-commercial purposes, with attribution.
 
 👤 Author
 
